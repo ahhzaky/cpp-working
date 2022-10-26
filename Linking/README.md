@@ -9,7 +9,7 @@ hasil akan masuk ke file `main.p`
 
 pada file `main.p` akan terlihat pada baris akhir bahwa semua file header akan ikut tercompile pada file `main.cpp`
 
-`
+```
 
 # 1 "tambah.h" 1
 
@@ -28,4 +28,4 @@ std::cout << tambah(6, 7) << std::endl;
 return 0;
 }
 
-`
+```
